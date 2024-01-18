@@ -1,0 +1,6 @@
+vim.cmd("set number")
+
+
+
+
+
